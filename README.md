@@ -63,7 +63,7 @@ Changing and managing multiple batteries can be time-consuming. To simplify the 
 
 ## Code
 
-The program for the beacon is available [here (link to be added)](https://www.url.com).
+The program for the beacon is available in this repository.
 
 ### Program Behavior:
 - This program runs automatically once the Xiao ESP32-C3 is powered (via USB-C or battery).
