@@ -1,0 +1,21 @@
+# Core dependencies
+requests>=2.31.0
+bleak>=0.21.0
+
+# Optional dependencies for enhanced features
+numpy>=1.24.0  # For enhanced scanner mode (signal processing)
+pandas>=2.0.0  # For enhanced scanner mode (data analysis)
+
+# Development dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Optional server mode dependencies (uncomment if using server mode)
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+# sqlalchemy>=2.0.0
+
+# Type checking (optional)
+# mypy>=1.7.0
+# types-requests>=2.31.0
